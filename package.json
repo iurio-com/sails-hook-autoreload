@@ -21,10 +21,10 @@
   },
   "dependencies": {
     "@sailshq/lodash": "^3.10.2",
-    "chokidar": "^1.0.0"
+    "chokidar": "^4.0.3"
   },
   "devDependencies": {
-    "sails": "~0.11.0"
+    "sails": "^1.5.17"
   },
   "contributors": [
     {
